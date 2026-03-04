@@ -1,9 +1,9 @@
 package capas.modelo;
 
 public enum EstadoPuja {
-    GANADORA,
-    SUPERADA,
-    ANULADA,
+    GANADOR,
+    SUPERADO,
+    ANULADO,
     PENDIENTE
 }
 

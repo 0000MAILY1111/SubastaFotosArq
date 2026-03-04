@@ -3,23 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/modelo/EstadoPuja.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/modelo/EstadoSubasta.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/puja/DPuja.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/producto/DProducto.java</file>
             <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/subastafotosarq/SubastaFotosArq.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/modelo/RolUsuario.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/subasta/DSubasta.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/modelo/EstadoParticipante.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/producto/NProducto.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/subasta/PujaListener.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/subasta/ConsoleParticipanteListener.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/participante/DParticipanteSubasta.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/subasta/NSubasta.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/participante/NParticipanteSubasta.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/Database.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/puja/NPuja.java</file>
-            <file>file:/C:/Users/valde/Documents/NetBeansProjects/SubastaFotosArq/src/capas/usuario/NUsuario.java</file>
         </group>
     </open-files>
 </project-private>

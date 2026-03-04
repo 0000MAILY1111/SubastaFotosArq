@@ -46,8 +46,8 @@ public class NPuja {
             if (p == null) continue;
             if (!String.valueOf(p[1]).equals(idSubasta)) continue;
             EstadoPuja ep = EstadoPuja.valueOf(String.valueOf(p[5]));
-            if (ep == EstadoPuja.GANADORA || ep == EstadoPuja.PENDIENTE) {
-                p[5] = EstadoPuja.SUPERADA.name();
+            if (ep == EstadoPuja.GANADOR || ep == EstadoPuja.PENDIENTE) {
+                p[5] = EstadoPuja.SUPERADO.name();
                 datoPuja.actualizar(p);
             }
         }
@@ -56,7 +56,7 @@ public class NPuja {
         data.put("id_subasta", Integer.parseInt(idSubasta));
         data.put("id_usuario", Integer.parseInt(idUsuario));
         data.put("monto", monto);
-        data.put("estado_puja", EstadoPuja.GANADORA.name());
+        data.put("estado_puja", EstadoPuja.GANADOR.name());
         datoPuja.cargarDatos(data);
         Object[] puja = datoPuja.guardar();
 
